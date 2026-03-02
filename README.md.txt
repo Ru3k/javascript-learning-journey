@@ -36,6 +36,10 @@ red for negative, and black for zero.
 A simple interactive Guess the Number web game where the user tries to guess a randomly
 generated number between 1 and 100 and receives feedback if the guess is too high, too low, or correct.
 
+### 04 - background-color-changer
+A mini project built using HTML, CSS, and JavaScript that allows users to change the
+webpage background color dynamically using a color picker interface.
+
 (More projects coming soon...)
 
 ---
