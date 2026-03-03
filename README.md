@@ -17,7 +17,7 @@ This repository includes:
 - DOM manipulation practice
 - Real-world problem-solving implementations
 
-I believe in learning by building — so instead of only theory, I focus on creating projects.
+I believe in learning by building.....so instead of only theory, I focus on creating projects..!
 
 ---
 
