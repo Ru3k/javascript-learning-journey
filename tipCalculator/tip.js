@@ -3,6 +3,7 @@ let percentageTipInput = document.getElementById("percentageTip");
 let tipAmountInput = document.getElementById("tipAmount");
 let totalInput = document.getElementById("totalAmount");
 let errorMessageElement = document.getElementById("errorMessage");
+
 let errorMessage = "Please Enter a Valid Input.";
 
 function calculateTip() {
@@ -12,9 +13,10 @@ function calculateTip() {
     if (billAmountInputValue === "") {
         errorMessageElement.textContent = errorMessage;
     } else if (percentageTipInputValue === "") {
-        errorMessageElement.textContent = erorrMessage;
+        errorMessageElement.textContent = errorMessage;
     } else {
         errorMessageElement.textContent = "";
+
         let billAmount = parseInt(billAmountInputValue);
         let percentageTip = parseInt(percentageTipInputValue);
 
@@ -24,5 +26,7 @@ function calculateTip() {
         tipAmountInput.value = calculatedTip;
         totalInput.value = calculatedTotal;
     }
-
 }
+
+let calculateButton = document.getElementById("calculateButton");
+calculateButton.addEventListener("click", calculateTip);
