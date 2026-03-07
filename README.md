@@ -17,30 +17,10 @@ This repository includes:
 - DOM manipulation practice
 - Real-world problem-solving implementations
 
-I believe in learning by building.....so instead of only theory, I focus on creating projects..!
+I believe in learning by building.  
+So instead of focusing only on theory, I focus on creating projects.
 
----
-
-## 🛠️ Projects
-
-### 01 - Cat-switch-on-off
-This page creates a simple interactive light switch where clicking ON or OFF changes the bulb and cat images,
-updates the status text, and switches button colors accordingly.
-
-### 02 - Caunter
-This page displays a counter with Increase, Decrease,
-and Reset buttons that update the number and automatically change its color to green for positive,
-red for negative, and black for zero.
-
-### 03 - guess-the-number
-A simple interactive Guess the Number web game where the user tries to guess a randomly
-generated number between 1 and 100 and receives feedback if the guess is too high, too low, or correct.
-
-### 04 - background-color-changer
-A mini project built using HTML, CSS, and JavaScript that allows users to change the
-webpage background color dynamically using a color picker interface.
-
-(More projects coming soon...)
+Each project inside this repository has its own folder and README explaining the project and concepts used.
 
 ---
 
@@ -55,7 +35,8 @@ webpage background color dynamically using a color picker interface.
 
 ## 📈 Progress
 
-Consistently learning and building every day 💪
+Consistently learning and building every day 💪  
+Documenting everything as part of my **Learn in Public** journey.
 
 ---
 
