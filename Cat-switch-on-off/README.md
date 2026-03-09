@@ -64,15 +64,6 @@ While building this project, I learned:
 * How to dynamically change UI elements
 * Basic DOM manipulation techniques
 
----
-
-## 📸 Project Preview
-
-You can add a screenshot here after running the project.
-
-```
-(Add a screenshot of the project UI)
-```
 
 ---
 

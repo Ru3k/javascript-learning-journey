@@ -88,9 +88,9 @@ You can run this project by simply opening the **index.html** file in your brows
 
 ## 👨‍💻 Author
 
-**Rutvik Parkhe**
+**Rutik Parkhe**
 
-Learning **JavaScript | MERN Stack | DSA**  
+Learning **MERN Stack | DSA**  
 Building projects and learning in public 🚀
 
 ---
