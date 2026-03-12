@@ -1,4 +1,4 @@
-# 🎨 Button builder
+# 🎨 Button Maker
 
 A simple **Button Maker** web app built using **HTML, CSS, and JavaScript**.
 This project allows users to customize a button's appearance by entering different style values such as background color, font color, font size, padding, and border radius.
@@ -36,7 +36,7 @@ This project allows users to customize a button's appearance by entering differe
 ## 📂 Project Structure
 
 ```
-button-builder
+button-Maker
 │
 ├── button.html
 ├── button.css
