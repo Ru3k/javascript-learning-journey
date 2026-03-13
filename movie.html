@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="movie.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" crossorigin="anonymous" />
+</head>
+
+<body>
+    <div class="container pt-4" id="movieReviewsContainer">
+        <div class="row">
+
+            <h1 class="col-12 text-center reviews-heading">Movie Reviews</h1>
+
+            <div class="col-12 mb-4">
+
+                <label for="titleInput" class="input-label">MOVIE TITLE</label>
+
+                <input type="text" class="w-100 title-input" id="titleInput" placeholder="Enter a movie title" />
+
+                <label for="reviewTextarea" class="input-label">
+                    YOUR REVIEW
+                </label>
+
+                <textarea class="w-100 p-2 review-textarea" id="reviewTextarea" rows="5" placeholder="Enter your review"></textarea>
+
+                <div class="d-flex flex-row justify-content-end mt-3">
+                    <button class="btn btn-primary" id="addBtn" onclick="onAddReview()">
+                        Add
+                    </button>
+                </div>
+
+            </div>
+
+            <div class="col-12 mt-4" id="reviewsContainer"></div>
+
+        </div>
+    </div>
+
+    <script src="movie.js"></script>
+
+</body>
+
+</html>
