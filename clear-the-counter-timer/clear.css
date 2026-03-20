@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+.heading {
+  font-family: "Roboto";
+  font-size: 24px;
+}
+
+.counter-value {
+  font-size: 36px;
+  font-weight: bold;
+}
