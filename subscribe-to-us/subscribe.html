@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Subscribe to Us</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="subscribe.css">
+</head>
+
+<body>
+
+    <div class="bg-container">
+        <div class="card-container">
+
+            <!-- Top Banner -->
+            <div class="top-section text-center">
+                <h1 class="heading">Subscribe to Us!</h1>
+            </div>
+
+            <!-- Form -->
+            <form id="subscribeForm" class="p-4">
+
+                <label class="label-text">NAME</label>
+                <input type="text" id="name" class="form-control mb-1"/>
+                <p id="nameErrMsg" class="error-msg"></p>
+
+                <label class="label-text">EMAIL</label>
+                <input type="text" id="email" class="form-control mb-1"/>
+                <p id="emailErrMsg" class="error-msg"></p>
+
+                <div class="text-center mt-3">
+                    <button type="submit" class="btn btn-primary px-4">Subscribe</button>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+    <script src="subscribe.js"></script>
+
+</body>
+
+</html>
