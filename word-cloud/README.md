@@ -101,4 +101,4 @@ word-cloud/
 
 ## ⭐ Show Your Support
 
-If you like this project, give it a ⭐ on GitHub and share it....!
+If you like this project, give it a ⭐ on GitHub and share it.....!
