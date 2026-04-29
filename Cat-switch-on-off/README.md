@@ -82,4 +82,4 @@ This project is part of my **JavaScript learning journey**, where I build small 
 
 ---
 
-⭐ If you like this project, feel free to **star the repository**!
+⭐ If you like this project, feel free to **star the repository**..!
