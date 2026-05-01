@@ -92,7 +92,7 @@ A beginner-friendly project to practice **JavaScript + API integration** and bui
 
 ## 🙌 Connect With Me
 
-If you like this project or want to collaborate, feel free to connect..!
+If you like this project or want to collaborate, feel free to connect....!
 
 ---
 
