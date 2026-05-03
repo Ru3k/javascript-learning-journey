@@ -86,7 +86,7 @@ A simple and interactive web app that fetches and displays random jokes using an
 
 ## 💡 Inspiration
 
-A beginner-friendly project to practice **JavaScript + API integration** and build real-world frontend skills.
+A beginner-friendly project to practice **JavaScript + API integration** and build real-world frontend skills...!
 
 ---
 
