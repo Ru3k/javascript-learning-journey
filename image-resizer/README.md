@@ -106,4 +106,4 @@ Learning **Web Development & JavaScript**
 
 ---
 
-⭐ If you like this project, consider **starring the repository**...!
+⭐ If you like this project, consider **starring the repository**.....!
