@@ -84,7 +84,7 @@ git clone https://github.com/your-username/image-resizer.git
 
 2. Open the project folder
 
-3. Run **index.html** in your browser
+3. Run **index.html** in your browser...!
 
 ---
 
