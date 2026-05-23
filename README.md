@@ -46,4 +46,4 @@ GitHub: https://github.com/Ru3k
 
 ---
 
-⭐ If you like this journey, feel free to star the repository!
+⭐ If you like this journey, feel free to star the repository
