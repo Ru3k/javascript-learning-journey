@@ -78,7 +78,7 @@ While building this project, I learned:
 
 ## 📚 Learning Journey
 
-This project is part of my **JavaScript learning journey**, where I build small projects to strengthen my fundamentals and improve problem-solving skills.
+This project is part of my **JavaScript learning journey**, where I build small projects to strengthen my fundamentals and improve problem-solving skills.......!
 
 ---
 
