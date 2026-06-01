@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random HTML Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .card {
+            background: white;
+            max-width: 500px;
+            margin: auto;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        button {
+            padding: 10px 20px;
+            border: none;
+            background: #0078ff;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        #fact {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Random Fact Generator</h1>
+        <p>Click the button to get a random fact.</p>
+
+        <button onclick="showFact()">Generate Fact</button>
+
+        <p id="fact"></p>
+    </div>
+
+    <script>
+        const facts = [
+            "Bananas are berries, but strawberries aren't.",
+            "Honey never spoils.",
+            "Octopuses have three hearts.",
+            "Sharks existed before trees.",
+            "A day on Venus is longer than a year on Venus."
+        ];
+
+        function showFact() {
+            const randomIndex = Math.floor(Math.random() * facts.length);
+            document.getElementById("fact").textContent = facts[randomIndex];
+        }
+    </script>
+
+</body>
+</html>
