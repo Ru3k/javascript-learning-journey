@@ -89,4 +89,4 @@ By building this project, you will learn:
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star and sharing it with others...!
+⭐ If you found this project helpful, consider giving it a star and sharing it with others.!
