@@ -59,7 +59,7 @@ project-folder/
 ## 📸 Preview
 
 ```
-Clear the counter timer..!
+Clear the counter timer.
 
 12
 
